@@ -144,8 +144,7 @@ const initModel = {
       Temperature: 20,
       Temp_max: 20,
       Temp_min: 18,
-    },
-  ],
+    }],
 };
 
 const rootNode = document.getElementById("app");
