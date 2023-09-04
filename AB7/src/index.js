@@ -20,6 +20,7 @@ function view(dispatch, model) {
   ]);
 }
 
+
 function update(msg, model) {
   switch (msg) {
     case MSGS.ADD:
